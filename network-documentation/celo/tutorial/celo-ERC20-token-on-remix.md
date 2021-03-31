@@ -6,7 +6,7 @@ description: >-
 # How to mint your own fungible Celo Token 
 
 ## Prerequisite:
-1. Celo environment setup for Remix, tutorial for which can be found [here](network-documentation/celo/tutorial/celo-for-remix.md)
+1. Celo environment setup for Remix, tutorial for which can be found [here](./celo-for-remix.md)
 2. Basic knowledge of [Solidity](https://https://solidity-by-example.org/) and the [Remix IDE](https://remix.ethereum.org)
 
 
